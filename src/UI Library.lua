@@ -2764,7 +2764,7 @@ function library:Load(options)
 	local name = "weaponry.pro [V1.0]"
 	local sizeX = options.sizex or 450
 	local sizeY = options.sizey or 500
-	local theme = options.theme and options.theme or "weaponry.pro"
+	local theme = options.theme and options.theme or "WeaponryPro"
 	local overrides = options.themeoverrides or {}
 	local folder = options.folder
 	local extension = options.extension
